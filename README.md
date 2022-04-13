@@ -1,8 +1,14 @@
 # Opencore-Gigabyte-Z390-Gaming-X-9900K-RX590-Hackintosh
 
-OSX 12.2.1
+OSX 12.3
 
 ![image](https://raw.githubusercontent.com/nihuo/Opencore-Gigabyte-Z390-Gaming-X-9900K-RX590-Hackintosh/main/IMG/about.jpg)
+
+更新FeatureUnlock.kext， WhateverGreen.kext
+
+----------------------------------------------------------------
+
+OSX 12.2.1
 
 初始的EFI来自[黑果小兵](https://blog.daliansky.net/), 改动一个地方。
 1. 为解决睡眠后自动唤醒问题，将蓝牙对应的USB口用Hackintool改为internal. 
